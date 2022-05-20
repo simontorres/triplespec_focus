@@ -10,9 +10,10 @@ Welcome to TripleSpec Focus's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-A
-=
-bbb
+Overview
+========
+The `TripleSpec <https://noirlab.edu/science/programs/ctio/instruments/triplespec41-nir-imaging-spectrograph>`_ spectrograph is an
+imaging spectrograph that is currently installed at SOAR Telescope in Chile.
 
 Indices and tables
 ==================
